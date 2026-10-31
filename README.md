@@ -1,6 +1,6 @@
 # Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends
 ![Status](https://img.shields.io/badge/Status-Accept-yellow)
-![Version](https://img.shields.io/badge/Version-2026.10.24-red)
+![Version](https://img.shields.io/badge/Version-2026.10.31-red)
 ![Language](https://img.shields.io/badge/Python-3.11-3776ab?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
