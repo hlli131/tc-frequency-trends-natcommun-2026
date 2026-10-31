@@ -1,6 +1,5 @@
 # Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends
 [![Status](https://img.shields.io/badge/Status-AiP-success)]()
-[![Version](https://img.shields.io/badge/Version-2026.10.29-blueviolet)]()
 [![Language](https://img.shields.io/badge/Python-3.11-3776ab?logo=python)]()
 [![License](https://img.shields.io/badge/License-MIT-orange)]()
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xx.svg)](https://doi.org/10.5281/zenodo.xx)
@@ -8,7 +7,7 @@
 This repository provides the code for **"Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends"**
 by Li et al., published in *Nature Communications* (2026).
 
-> For any inquiries, please feel free to reach out: [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn).
+> For any inquiries, please feel free to contact [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn).
 
 
 ## 🔖 Citation
