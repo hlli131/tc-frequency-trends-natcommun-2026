@@ -17,7 +17,7 @@ If you use the code or data in this repository, please cite the relevant paper a
 > Li, H., et al. (2026). Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends. *Nature Communications*.
 >
 > **Code:**
-> Li, H., et al. (2026). Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends. Zenodo. [https://doi.org/10.5281/zenodo.23832300](https://doi.org/10.5281/zenodo.23832300).
+> Li, H., et al. (2026). Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends. *Zenodo*. [https://doi.org/10.5281/zenodo.23832300](https://doi.org/10.5281/zenodo.23832300).
 
 
 ## 📖 Brief introduction
