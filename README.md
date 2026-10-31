@@ -5,22 +5,20 @@
 [![License](https://img.shields.io/badge/License-MIT-orange)]()
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xx.svg)](https://doi.org/10.5281/zenodo.xx)
 
-This repository contains the code for **"Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends"**
+This repository provides the code for **"Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends"**
 by Li et al., published in *Nature Communications* (2026).
 
-> For any inquiries, please feel free to reach out at [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn).
+> For any inquiries, please feel free to reach out: [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn).
 
 
 ## 🔖 Citation
 If you use the code or data in this repository, please cite the relevant paper and archived code as follows:
 
-**Paper**
-> Li, H., et al. Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends. *Nature Communications* (2026).
-
-**Code**
-> Li, H. *tc-frequency-trends-natcommun-2026*. Zenodo. https://doi.org/10.5281/zenodo.xx (2026).
-
-> Li, H. *tc-frequency-trends-natcommun-2026*. Zenodo. [https://doi.org/10.5281/zenodo.xx](https://doi.org/10.5281/zenodo.xx) (2026).
+> **Paper:**
+> Li, H., et al. (2026). Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends. *Nature Communications*.
+>
+> **Code:**
+> Li, H., et al. (2026). Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends [Dataset]. Zenodo. [https://doi.org/10.5281/zenodo.xx](https://doi.org/10.5281/zenodo.xx).
 
 
 ## 📖 Brief introduction
