@@ -3,11 +3,19 @@
 [![Version](https://img.shields.io/badge/Version-2026.10.31-blueviolet)]()
 [![Language](https://img.shields.io/badge/Python-3.11-3776ab?logo=python)]()
 [![License](https://img.shields.io/badge/License-MIT-orange)]()
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xx.svg)](https://doi.org/10.5281/zenodo.xx)
 
-> For peer review only. The final version will be updated upon acceptance.
+> For any inquiries, please feel free to reach out: [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn)
 
-<!-- > For any inquiries, please feel free to reach out via email: [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn) 📧 -->
+
+## 🔖 Citation
+If you use the code or data in this repository, please cite the relevant paper and archived code as follows:
+
+**Paper**
+> Li, H., et al. Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends. *Nature Communications* (2026).
+
+**Code**
+> Li, H. *tc-frequency-trends-natcommun-2026*. Zenodo. https://doi.org/10.5281/zenodo.xx (2026).
 
 
 ## 📖 Brief introduction
@@ -24,7 +32,7 @@ This repository includes the following directories:
 | `primary_factor_identification` | Identify key factors and quantify their contributions and interactions using IML (**Fig.2**) |
 | `detection_and_attribution_analysis` | Detect and attribute TCF to human fingerprints using SVD, OF, and CMIP6 simulations (**Figs.3–4**) |
 | `physical_mechanism_explanation` | Explain the physical mechanism through coupled thermodynamic and dynamic pathways (**Fig.5**) |
-| `source_data` | Source data for the paper (**Figs.1–4**)|
+| `source_data` | Source data for the paper |
 
 
 ## ⚙️ Related configuration
