@@ -1,5 +1,5 @@
 # Code for "Human-influenced heterogeneity in global distribution of tropical cyclone frequency trends"
-[![Status](https://img.shields.io/badge/Status-Accept-success)]()
+[![Status](https://img.shields.io/badge/Status-Accepted-success)]()
 [![Language](https://img.shields.io/badge/Python-3.11-3776ab?logo=python)]()
 [![License](https://img.shields.io/badge/License-MIT-orange)]()
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23832300.svg)](https://doi.org/10.5281/zenodo.23832300)
